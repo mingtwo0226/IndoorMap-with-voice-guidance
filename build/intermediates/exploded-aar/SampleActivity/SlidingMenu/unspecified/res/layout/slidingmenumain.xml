@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.jeremyfeinstein.slidingmenu.lib.SlidingMenu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/slidingmenumain"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" /><!-- From: file:/D:/SAILS_Project/SDK/SAILS_Android_SDK_V1.6/SAILS_SAMPLE_CODE_V1.6_Published/androidstudio_sample/SampleActivity/SlidingMenu/src/main/res/layout/slidingmenumain.xml -->

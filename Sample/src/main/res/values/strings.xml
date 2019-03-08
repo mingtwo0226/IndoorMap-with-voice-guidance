@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">걸어요</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="start_location_engine">Start Location</string>
+    <string name="stop_location_engine">Stop Location</string>
+    <string name="usage">(When Engine is off)\nRegion long press: set route start point.\nRegion short press: set route end point.\n\n(When Engine is on)\nUser current fix location is start point, \nand short press region to set route end point.</string>
+    <string name="a401">대기과학과세미나실</string>
+    <string name="a402">기후역학실험연구실</string>
+    <string name="a404">세미나실1</string>
+    <string name="a405">세미나실2</string>
+    <string name="a406">이기준 교수연구실</string>
+    <string name="a407">권혁철 교수연구실</string>
+    <string name="a408">조환규 교수연구실</string>
+    <string name="a409">우 균 교수연구실</string>
+    <string name="a410">시공간데이터베이스 연구실2</string>
+    <string name="a411">권현주 교수연구실</string>
+    <string name="a412">최윤호 교수연구실</string>
+    <string name="a413">신경회로망 및 로봇비전 연구실2</string>
+    <string name="a414">차의영 교수연구실</string>
+    <string name="a415">김경석 교수연구실</string>
+    <string name="a416">권준호 교수연구실</string>
+    <string name="a417">소프트웨어 및 시스템보안 연구실</string>
+    <string name="a418">신경회로망 및 로봇비전 연구실1</string>
+    <string name="a419">학과사무실</string>
+    <string name="a420">김정구 교수연구실</string>
+    <string name="a421">차세대방송 및 통신연구실</string>
+    <string name="a422">시공간데이터베이스 연구실1</string>
+    <string name="a423">엄준식 교수연구실</string>
+    <string name="a424">대기분석실험실</string>
+    <string name="a425">데이터사이언스연구실</string>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\Sample\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\Sample\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4cdfd366bc23026d975700cdc8acee107d7c4deb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\SlidingMenu\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4c81bdcdb9f1910dd246542cd7e9f1e8972f5d7d">
+        <dex dex="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\Sample\build\intermediates\pre-dexed\debug\classes_9891c9296e68b433379f1ecd089e6d02a8a139fe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\SlidingMenu\build\intermediates\bundles\default\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="15c03170be6fbbb27ca5bae0eb284fef5755253a">
+        <dex dex="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\Sample\build\intermediates\transforms\dex\debug\folders\1000\8\android-support-v4_1173551e5427f15bf419d3eed4a1fa3df741ee40\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\SlidingMenu\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c08c21cd75b95b7f9c85eb098cc69c5757d847e9">
+        <dex dex="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\Sample\build\intermediates\pre-dexed\debug\classes_9891c9296e68b433379f1ecd089e6d02a8a139fe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\Sample\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5416d82bf68569f98a0e722f6db74aab2f0b7de8">
+        <dex dex="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\Sample\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fa711a48abe69539e5325520fcce1e9fd69a21ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\SlidingMenu\build\intermediates\bundles\default\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15c03170be6fbbb27ca5bae0eb284fef5755253a">
+        <dex dex="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\Sample\build\intermediates\pre-dexed\debug\android-support-v4_1173551e5427f15bf419d3eed4a1fa3df741ee40.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\Sample\libs\SAILS_SDK_V1.73_Published.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2b4ea6e0b35513f0ac8d736342ebca9d6bd7d719">
+        <dex dex="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\Sample\build\intermediates\transforms\dex\debug\folders\1000\2\SAILS_SDK_V1.73_Published_4b267b9a697b201e5b9cb7bd9b70f42eb2aeef6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\SlidingMenu\build\intermediates\bundles\default\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="15c03170be6fbbb27ca5bae0eb284fef5755253a">
+        <dex dex="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\Sample\build\intermediates\pre-dexed\debug\android-support-v4_1173551e5427f15bf419d3eed4a1fa3df741ee40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\Sample\libs\SAILS_SDK_V1.73_Published.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2b4ea6e0b35513f0ac8d736342ebca9d6bd7d719">
+        <dex dex="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\Sample\build\intermediates\pre-dexed\debug\SAILS_SDK_V1.73_Published_4b267b9a697b201e5b9cb7bd9b70f42eb2aeef6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\Sample\libs\SAILS_SDK_V1.73_Published.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b4ea6e0b35513f0ac8d736342ebca9d6bd7d719">
+        <dex dex="C:\Users\flove\Downloads\SampleActivity0929\SampleActivity\Sample\build\intermediates\pre-dexed\debug\SAILS_SDK_V1.73_Published_4b267b9a697b201e5b9cb7bd9b70f42eb2aeef6b.jar" />
+    </item>
+
+</items>
